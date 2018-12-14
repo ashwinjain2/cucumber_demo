@@ -14,7 +14,6 @@ When I click Login button
 And I should click "not now" link
 #And I should select offer from dropdown
 And I should close the browser
-
 Examples:
 |username                 |password|
 |testruby12233@gmail.com  |PickCart7|
