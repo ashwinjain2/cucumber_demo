@@ -18,5 +18,3 @@ And I should close the browser
 Examples:
 |username                 |password|
 |testruby12233@gmail.com  |PickCart7|
-# |row2   |PickCart7|
-# |row3  |PickCart8|
